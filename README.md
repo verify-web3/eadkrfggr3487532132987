@@ -1,1 +1,1 @@
-# verify-wallet.github.io
+# verify-web3.github.io
